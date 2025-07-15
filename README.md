@@ -1,2 +1,7 @@
-# Executive_Sales_Dashboard_RahulNerlekar.xlsx
-Interactive Excel dashboard to track sales KPIs using pivot tables, slicers, and advanced formulas like SUMIFS, VLOOKUP, and IF. Designed to support executive decision-making with automated visuals and performance insights.
+# This project showcases a dynamic sales dashboard built in Microsoft Excel using:
+- Pivot Tables and Slicers for interactivity
+- KPI tracking for monthly and regional sales
+- Advanced formulas like SUMIFS, IF, and VLOOKUP
+- Conditional formatting for performance insights
+
+🎯 Goal: To enable clear decision-making through visual data storytelling.
